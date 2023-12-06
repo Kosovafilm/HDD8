@@ -1,8 +1,7 @@
-# DCP List with Line Numbers
+# HDD8 Permbajtja
 
-1. HDD8
-2. Burrneshat DCP
-3. I treturi DCP
-4. Illyricum DCP
-5. My Lake DCP
-6. Year of The Monkey DCP
+1. Burrneshat DCP
+2. I treturi DCP
+3. Illyricum DCP
+4. My Lake DCP
+5. Year of The Monkey DCP
