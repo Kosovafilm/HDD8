@@ -42,18 +42,18 @@
       4.	Tri dritare dhe nje varje DVD
      
      - QKK Shorts SCREENERS/ FOLDER
-   	     Blerta Zeqiri FILMAT//FOLDER
-   	          1. Darka
-	          	2. Exit
-		          3. Femijet
-		          4. Kosova 2011
-	          	5. Kthimi/
-    		      6. Le hamster
-		          7. LGBT Stigma
-       3.	Shok
-       4.	BALCONY
-       5.	FENCE
-       6.	NË MES (in_between)
-       7.	Kosova Dogs
-       8.	pa_vend (displaced)
-       9.	Si qeni n'rrush
+   	Blerta Zeqiri FILMAT//FOLDER
+   	          a. Darka
+	          b. Exit
+		  c. Femijet
+		  d. Kosova 2011
+	          e. Kthimi
+    		  f. Le hamster
+		  g. LGBT Stigma\
+       3. Shok
+       4. BALCONY
+       5. FENCE
+       6. NË MES (in_between)
+       7. Kosova Dogs
+       8. pa_vend (displaced)
+       9. Si qeni n'rrush
