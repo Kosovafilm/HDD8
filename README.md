@@ -13,12 +13,12 @@
       
 -QKK_ETC/FOLDER
    - QKK Dokumentare/ FOLDER
- 1. DRUMS OF RESISTANCE
- 2. Mbijetesa dhe shkolla
- 3. The Hug of Destiny
- 4. Si e verdhe e semure
+	1. DRUMS OF RESISTANCE
+	2. Mbijetesa dhe shkolla
+	3. The Hug of Destiny
+	4. Si e verdhe e semure
 
-    - QKK Screeners/FOLDER
+ - QKK Screeners/FOLDER
     2.	Babai_Screener
     3.	Cold November_Screener
     4.	Eho_Screener
@@ -41,7 +41,7 @@
       3.	HEROI DVD
       4.	Tri dritare dhe nje varje DVD
      
-     - QKK Shorts SCREENERS/ FOLDER
+  - QKK Shorts SCREENERS/ FOLDER
    	Blerta Zeqiri FILMAT//FOLDER
    	          a. Darka
 	          b. Exit
