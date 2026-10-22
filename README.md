@@ -46,11 +46,11 @@ F:\MINORITY
     F:\QKK DCP_2\Bear Hug
 
     F:\QKK DCP_2\Bukuria e gomarit
-	   F:\QKK DCP_2\Bukuria e gomarit\audio_tracks
-	   F:\QKK DCP_2\Bukuria e gomarit\DCP
-	   F:\QKK DCP_2\Bukuria e gomarit\formats_VOD
-	   F:\QKK DCP_2\Bukuria e gomarit\ProRes
-	   F:\QKK DCP_2\Bukuria e gomarit\supporting_files
+	  F:\QKK DCP_2\Bukuria e gomarit\audio_tracks
+	  F:\QKK DCP_2\Bukuria e gomarit\DCP
+	  F:\QKK DCP_2\Bukuria e gomarit\formats_VOD
+	  F:\QKK DCP_2\Bukuria e gomarit\ProRes
+	  F:\QKK DCP_2\Bukuria e gomarit\supporting_files
 
   F:\QKK DCP_2\DUA
     F:\QKK DCP_2\DUA\DUA DCP
