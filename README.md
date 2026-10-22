@@ -45,13 +45,8 @@ F:\MINORITY
 
    F:\QKK DCP_2\Bear Hug
 
-   F:\QKK DCP_2\Bukuria e gomarit
-	F:\QKK DCP_2\Bukuria e gomarit\audio_tracks
-	F:\QKK DCP_2\Bukuria e gomarit\DCP
-	F:\QKK DCP_2\Bukuria e gomarit\formats_VOD
-	F:\QKK DCP_2\Bukuria e gomarit\ProRes
-	F:\QKK DCP_2\Bukuria e gomarit\supporting_files
-
+   F:\QKK DCP_2\Bukuria e gomarit DCP
+	
   F:\QKK DCP_2\DUA
     F:\QKK DCP_2\DUA\DUA DCP
     F:\QKK DCP_2\DUA\Dua_FTR_HD-166_REC709_H264_24FPS_OV-STEREO_260626.mov
