@@ -21,6 +21,8 @@ MINORITY
 
   MINORITY\The Stork
 
+  MINORITY\TheRiver
+
   MINORITY\Year of The MonkeyDCP
 
   MINORITY\Dokumentari Skenderbeu ne Shkup.mov
