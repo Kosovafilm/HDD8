@@ -1,68 +1,68 @@
-F:\Kam dicka per te thene_Henor Haliti
+Kam dicka per te thene_Henor Haliti
 
-F:\MINORITY
+MINORITY
 
-  F:\MINORITY\\BurrneshaDCP\BURRNESHA _DCP_
+  MINORITY\\BurrneshaDCP\BURRNESHA _DCP_
 
-  F:\MINORITY\Escort_FTR_S_HR-XX_001-NR_51_2K_IND_20230221_ECP_IOP_OV
+  MINORITY\Escort_FTR_S_HR-XX_001-NR_51_2K_IND_20230221_ECP_IOP_OV
 
-  F:\MINORITY\I treturiDCP
-	  F:\MINORITY\I treturiDCP\1_Fahrija Blerta
-	  F:\MINORITY\I treturiDCP\DCP
-
-
-  F:\MINORITY\Illyricum DCP
-
-  F:\MINORITY\LUNA PARK DCP
-
-  F:\MINORITY\MyLakeDCP
-
-  F:\MINORITY\SirinFinal_FTR-1_S_EN-EN_51_2K_FABR_20230805_SMPTE_OV
-
-  F:\MINORITY\The Stork
-
-  F:\MINORITY\Year of The MonkeyDCP
-
-  F:\MINORITY\Dokumentari Skenderbeu ne Shkup.mov
-  F:\MINORITY\Dokumentari Skenderbeu ne Shkup.mp4
-
-  F:\MINORITY\i_was_10_years_old (1080p)
-
-  F:\QKK DCP SHORT
-
-    F:\QKK DCP SHORT\A Child
-
-  F:\QKK DCP SHORT\FRANANDVERKA_DCP_51.dcp
-
-  F:\QKK DCP SHORT\Keep going\DCP Keep Going
-     F:\QKK DCP SHORT\Keep going\Keep Going.mov
-     F:\QKK DCP SHORT\Keep going\Keep going.mp4
+  MINORITY\I treturiDCP
+	  MINORITY\I treturiDCP\1_Fahrija Blerta
+	  MINORITY\I treturiDCP\DCP
 
 
-  F:\QKK DCP_2
+  MINORITY\Illyricum DCP
 
-   F:\QKK DCP SHORT\Who Did You Go Fishing With
+  MINORITY\LUNA PARK DCP
 
-   F:\QKK DCP_2\Bear Hug
+  MINORITY\MyLakeDCP
 
-   F:\QKK DCP_2\Bukuria e gomarit DCP
+  MINORITY\SirinFinal_FTR-1_S_EN-EN_51_2K_FABR_20230805_SMPTE_OV
+
+  MINORITY\The Stork
+
+  MINORITY\Year of The MonkeyDCP
+
+  MINORITY\Dokumentari Skenderbeu ne Shkup.mov
+  MINORITY\Dokumentari Skenderbeu ne Shkup.mp4
+
+  MINORITY\i_was_10_years_old (1080p)
+
+  QKK DCP SHORT
+
+    QKK DCP SHORT\A Child
+
+  QKK DCP SHORT\FRANANDVERKA_DCP_51.dcp
+
+  QKK DCP SHORT\Keep going\DCP Keep Going
+     QKK DCP SHORT\Keep going\Keep Going.mov
+     QKK DCP SHORT\Keep going\Keep going.mp4
+
+
+  QKK DCP_2
+
+   QKK DCP SHORT\Who Did You Go Fishing With
+
+   QKK DCP_2\Bear Hug
+
+   QKK DCP_2\Bukuria e gomarit DCP
 	
-  F:\QKK DCP_2\DUA
-    F:\QKK DCP_2\DUA\DUA DCP
-    F:\QKK DCP_2\DUA\Dua_FTR_HD-166_REC709_H264_24FPS_OV-STEREO_260626.mov
-    F:\QKK DCP_2\DUA\Dua_FTR_HD-166_REC709_H264_24FPS_OV-STEREO_260626.mov 48000.pek
-    F:\QKK DCP_2\DUA\POSTER
-    F:\QKK DCP_2\DUA\TRAILER
+  QKK DCP_2\DUA
+    QKK DCP_2\DUA\DUA DCP
+    QKK DCP_2\DUA\Dua_FTR_HD-166_REC709_H264_24FPS_OV-STEREO_260626.mov
+    QKK DCP_2\DUA\Dua_FTR_HD-166_REC709_H264_24FPS_OV-STEREO_260626.mov 48000.pek
+    QKK DCP_2\DUA\POSTER
+    QKK DCP_2\DUA\TRAILER
 
-  F:\QKK DCP_2\I HAVE NEVER BEEN ON AN AIRPLANE
+  QKK DCP_2\I HAVE NEVER BEEN ON AN AIRPLANE
 
-  F:\QKK DCP_2\KARMA
+  QKK DCP_2\KARMA
 
-  F:\QKK DCP_2\Bear Hug\bear hug vimeo.mp4
-  F:\QKK DCP_2\Bear Hug\dcp_BearHug
+  QKK DCP_2\Bear Hug\bear hug vimeo.mp4
+  QKK DCP_2\Bear Hug\dcp_BearHug
 
-  F:\QKK DCP_2\I HAVE NEVER BEEN ON AN AIRPLANE\DCP-IHAVENEVERBEENONANAIRPLANE
-  F:\QKK DCP_2\I HAVE NEVER BEEN ON AN AIRPLANE\I HAVE NEVER BEEN ON AN AIRPLANE_H264_UHD_ENG_SUB.mov
+  QKK DCP_2\I HAVE NEVER BEEN ON AN AIRPLANE\DCP-IHAVENEVERBEENONANAIRPLANE
+  QKK DCP_2\I HAVE NEVER BEEN ON AN AIRPLANE\I HAVE NEVER BEEN ON AN AIRPLANE_H264_UHD_ENG_SUB.mov
 
-  F:\QKK DCP_2\KARMA\INFO DCP 4K
+  QKK DCP_2\KARMA\INFO DCP 4K
 
